@@ -1,4 +1,40 @@
 .navbar-default {
-	background: #041929;
+	background:#041929;
+	color:#fff;
 
 }
+
+.navbar-brand {
+	color:#fff;
+}
+
+.jumbotron {
+	height:600px;
+	position: relative;
+	background: url("../images/demo.jpg") no-repeat center center;
+	background-size:;
+	overflow: hidden;
+	color:white;
+	-webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+.panel .panel-heading {
+	background: #041929;
+	color:white;
+}
+
+.well {
+	background:#041929;
+	color:white;
+
+}
+
+.p {
+	font-family: helvetica;
+}
+
+
+
